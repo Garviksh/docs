@@ -1,0 +1,24 @@
+{
+  "sidebar": [
+    {
+      "label": "Getting Started",
+      "items": ["getting-started/intro", "getting-started/login", "getting-started/navigation"]
+    },
+    {
+      "label": "Modules",
+      "items": ["modules/contracts", "modules/forms", "modules/templates", "modules/workflows", "modules/insights", "modules/repository", "modules/misc"]
+    },
+    {
+      "label": "Features",
+      "items": ["features/create-contract", "features/my-requests", "features/approvals", "features/favorites"]
+    },
+    {
+      "label": "FAQ",
+      "items": ["faq/contract-not-visible", "faq/request-approval", "faq/overdue-requests", "faq/legal-intake"]
+    },
+    {
+      "label": "Resources",
+      "items": ["resources/release-notes", "resources/troubleshooting", "resources/support"]
+    }
+  ]
+}
