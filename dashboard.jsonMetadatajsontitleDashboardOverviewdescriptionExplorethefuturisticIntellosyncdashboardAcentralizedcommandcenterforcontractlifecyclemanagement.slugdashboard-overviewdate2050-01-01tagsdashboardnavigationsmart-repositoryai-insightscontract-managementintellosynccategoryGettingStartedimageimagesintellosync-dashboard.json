@@ -1,0 +1,15 @@
+
+---
+
+### 📁 `dashboard.json` (Metadata)
+
+```json
+{
+  "title": "Dashboard Overview",
+  "description": "Explore the futuristic Intellosync dashboard: A centralized command center for contract lifecycle management.",
+  "slug": "dashboard-overview",
+  "date": "2050-01-01",
+  "tags": ["dashboard", "navigation", "smart-repository", "ai-insights", "contract-management", "intellosync"],
+  "category": "Getting Started",
+  "image": "/images/intellosync-dashboard-top.png"
+}
