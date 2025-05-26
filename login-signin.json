@@ -1,0 +1,9 @@
+{
+  "title": "Login / Sign-In",
+  "description": "Step-by-step guide to logging into the Intellosync platform using OTP or third-party authentication methods.",
+  "slug": "login-signin",
+  "date": "2050-01-01",
+  "tags": ["login", "authentication", "otp", "intellosync", "azure", "google", "microsoft"],
+  "category": "Getting Started",
+  "image": "/images/intellosync-login-otp.png"
+}
